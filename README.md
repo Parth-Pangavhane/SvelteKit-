@@ -1,4 +1,4 @@
-# svelte
+# SvelteKit
 
 
 ## Creating a project
