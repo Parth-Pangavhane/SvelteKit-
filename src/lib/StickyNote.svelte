@@ -115,7 +115,7 @@
       border: none;
       background: none;
       font-size: 1rem;
-      margin-left: 0.5rem;
+      margin-left: 0.51rem;
     }
   
     .controls select {
